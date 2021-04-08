@@ -1,0 +1,10 @@
+C:\Users\italo\source\repos\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe.config
+C:\Users\italo\source\repos\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe
+C:\Users\italo\source\repos\ConsultarCEPs\bin\Debug\ConsultarCEPs.pdb
+C:\Users\italo\source\repos\ConsultarCEPs\obj\Debug\ConsultarCEPs.csprojAssemblyReference.cache
+C:\Users\italo\source\repos\ConsultarCEPs\obj\Debug\ConsultarCEPs.FrmConsultarCEPs.resources
+C:\Users\italo\source\repos\ConsultarCEPs\obj\Debug\ConsultarCEPs.Properties.Resources.resources
+C:\Users\italo\source\repos\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.GenerateResource.cache
+C:\Users\italo\source\repos\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\ConsultarCEPs\obj\Debug\ConsultarCEPs.exe
+C:\Users\italo\source\repos\ConsultarCEPs\obj\Debug\ConsultarCEPs.pdb
